@@ -11,5 +11,5 @@ sudo apt update && sudo apt install memcached
 systemctl status memcached
 telnet localhost 11211
 ```
-**проверка через команду**
+**проверка через команду**  
 stats
