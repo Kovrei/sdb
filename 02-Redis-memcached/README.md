@@ -47,4 +47,5 @@
 
 Приведите скриншот, где будут проделаны все операции и будет видно, что значение key5 стало равно 10.
 
+### ответ
 ![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/02-Redis-memcached/img/redis%20multi.PNG)
