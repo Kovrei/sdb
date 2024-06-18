@@ -7,7 +7,7 @@
 
 ### ответ
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/1.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/1.JPG)
 
 # Задание 2. Отправка и получение сообщений
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения. Для отправки сообщений необходимо запустить скрипт producer.py.
@@ -24,9 +24,9 @@ $ pip install pika
 
 ### ответ
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/2-1.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/2-1.JPG)
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/2-2.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/2-2.JPG)
 
 # Задание 3. Подготовка HA кластера
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ. Добавьте в файл hosts название и IP-адрес каждой машины, чтобы машины могли видеть друг друга по имени.
@@ -55,11 +55,11 @@ $ rabbitmqadmin get queue='hello'
 
 ### ответ
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-1.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-1.JPG)
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-2.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-2.JPG)
 
-[!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-3.JPG)
+![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-3.JPG)
 
 *при выполнении запуска скрипта producer.py выходит ошибка*
 [!alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-4.JPG)
