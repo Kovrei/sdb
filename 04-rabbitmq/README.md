@@ -63,8 +63,7 @@ $ rabbitmqadmin get queue='hello'
 
 ![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-3.JPG)
 
-*при выполнении запуска скрипта producer.py выходит ошибка*
-![alt text](https://raw.githubusercontent.com/Kovrei/sdb/main/04-rabbitmq/img/3-4.JPG)
+![alt text](https://github.com/Kovrei/sdb/blob/main/04-rabbitmq/img/3-4.PNG?raw=true)
 
 
 # * Задание 4. Ansible playbook
